@@ -1,0 +1,29 @@
+.push-right {
+    text-align: center;
+    outline: none;
+    margin: 20px 0;
+}
+.action-brandsheep {
+    margin: 0 5px; 
+}
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.brandSheep {
+    background: rgb(0, 128, 49);
+    color: #fff;
+}
+.unbrandSheep {
+    background: #fff;
+    color: #000;
+}
+.brandSheep:hover {
+    background: rgb(0, 128, 53);
+}
