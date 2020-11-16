@@ -11,7 +11,7 @@ The app is written using [TypeScript](https://www.typescriptlang.org/). The bund
 ## Scenario
 The fields are green and Wren are venturing out to become a shepherd.
 
-Your task is to extend the provided code with functionality and logic to create a 'field', add sheep to the field and allow the sheep to breed.
+The task involves creating a 'field', adding sheep to the field and allowing the sheep to breed based on probability defined.
 
 ### Implementation
 
